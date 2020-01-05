@@ -4,6 +4,7 @@ import constants
 import csv
 
 '''
+Telegram-bot @btc4dipp_bot (tg://resolve?domain=btc4dipp_bot)
 
 This robot tells jokes in three languages - pl, en, ru
 If you write your own, he will read with pleasure :)
